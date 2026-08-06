@@ -2,18 +2,14 @@
 Calculates the distance of any given point.
 
 # Ask the user to enter the coordinates of the first point
-
-x1 = float(input("Enter x1: "))
-y1 = float(input("Enter y1: "))
+Enter the first part of the coordinates. (x1, y1) Example: (3,5)
 
 # Ask the user to enter the coordinates of the second point
-
-x2 = float(input("Enter x2: "))
-y2 = float(input("Enter y2: "))
+Enter the second part of the coordinates. (x2,y2) Example: (4,3)
 
 # Compute the distance using the distance formula
 
-distance = math.sqrt(math.pow(x2 - x1, 2) + math.pow(y2 - y1, 2))
+
 
 # Display the result rounded to two decimal places
 
