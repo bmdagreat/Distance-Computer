@@ -1,2 +1,2 @@
 # Distance-Computer
-Calculates the distance of any given pointl.
+Calculates the distance of any given point.
